@@ -1,0 +1,213 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ingen\\Documents\\Projects\\React_JS\\tekchoice_back\\tekchoice.API\\tekchoice.Operations\\tekchoice.Operations.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ingen\\Documents\\Projects\\React_JS\\tekchoice_back\\tekchoice.API\\tekchoice.Core\\tekchoice.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ingen\\Documents\\Projects\\React_JS\\tekchoice_back\\tekchoice.API\\tekchoice.Core\\tekchoice.Core.csproj",
+        "projectName": "tekchoice.Core",
+        "projectPath": "C:\\Users\\ingen\\Documents\\Projects\\React_JS\\tekchoice_back\\tekchoice.API\\tekchoice.Core\\tekchoice.Core.csproj",
+        "packagesPath": "C:\\Users\\ingen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ingen\\Documents\\Projects\\React_JS\\tekchoice_back\\tekchoice.API\\tekchoice.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ingen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.15.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.214\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ingen\\Documents\\Projects\\React_JS\\tekchoice_back\\tekchoice.API\\tekchoice.Data\\tekchoice.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ingen\\Documents\\Projects\\React_JS\\tekchoice_back\\tekchoice.API\\tekchoice.Data\\tekchoice.Data.csproj",
+        "projectName": "tekchoice.Data",
+        "projectPath": "C:\\Users\\ingen\\Documents\\Projects\\React_JS\\tekchoice_back\\tekchoice.API\\tekchoice.Data\\tekchoice.Data.csproj",
+        "packagesPath": "C:\\Users\\ingen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ingen\\Documents\\Projects\\React_JS\\tekchoice_back\\tekchoice.API\\tekchoice.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ingen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.214\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ingen\\Documents\\Projects\\React_JS\\tekchoice_back\\tekchoice.API\\tekchoice.Operations\\tekchoice.Operations.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ingen\\Documents\\Projects\\React_JS\\tekchoice_back\\tekchoice.API\\tekchoice.Operations\\tekchoice.Operations.csproj",
+        "projectName": "tekchoice.Operations",
+        "projectPath": "C:\\Users\\ingen\\Documents\\Projects\\React_JS\\tekchoice_back\\tekchoice.API\\tekchoice.Operations\\tekchoice.Operations.csproj",
+        "packagesPath": "C:\\Users\\ingen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ingen\\Documents\\Projects\\React_JS\\tekchoice_back\\tekchoice.API\\tekchoice.Operations\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ingen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\ingen\\Documents\\Projects\\React_JS\\tekchoice_back\\tekchoice.API\\tekchoice.Core\\tekchoice.Core.csproj": {
+                "projectPath": "C:\\Users\\ingen\\Documents\\Projects\\React_JS\\tekchoice_back\\tekchoice.API\\tekchoice.Core\\tekchoice.Core.csproj"
+              },
+              "C:\\Users\\ingen\\Documents\\Projects\\React_JS\\tekchoice_back\\tekchoice.API\\tekchoice.Data\\tekchoice.Data.csproj": {
+                "projectPath": "C:\\Users\\ingen\\Documents\\Projects\\React_JS\\tekchoice_back\\tekchoice.API\\tekchoice.Data\\tekchoice.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "RestSharp": {
+              "target": "Package",
+              "version": "[107.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.214\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

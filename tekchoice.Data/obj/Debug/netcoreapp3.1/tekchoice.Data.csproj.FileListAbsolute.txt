@@ -1,0 +1,12 @@
+C:\Users\ingen\Documents\Projects\React_JS\tekchoice_back\tekchoice.API\tekchoice.Data\bin\Debug\netcoreapp3.1\tekchoice.Data.deps.json
+C:\Users\ingen\Documents\Projects\React_JS\tekchoice_back\tekchoice.API\tekchoice.Data\bin\Debug\netcoreapp3.1\tekchoice.Data.runtimeconfig.json
+C:\Users\ingen\Documents\Projects\React_JS\tekchoice_back\tekchoice.API\tekchoice.Data\bin\Debug\netcoreapp3.1\tekchoice.Data.runtimeconfig.dev.json
+C:\Users\ingen\Documents\Projects\React_JS\tekchoice_back\tekchoice.API\tekchoice.Data\bin\Debug\netcoreapp3.1\tekchoice.Data.dll
+C:\Users\ingen\Documents\Projects\React_JS\tekchoice_back\tekchoice.API\tekchoice.Data\bin\Debug\netcoreapp3.1\tekchoice.Data.pdb
+C:\Users\ingen\Documents\Projects\React_JS\tekchoice_back\tekchoice.API\tekchoice.Data\obj\Debug\netcoreapp3.1\tekchoice.Data.AssemblyInfoInputs.cache
+C:\Users\ingen\Documents\Projects\React_JS\tekchoice_back\tekchoice.API\tekchoice.Data\obj\Debug\netcoreapp3.1\tekchoice.Data.AssemblyInfo.cs
+C:\Users\ingen\Documents\Projects\React_JS\tekchoice_back\tekchoice.API\tekchoice.Data\obj\Debug\netcoreapp3.1\tekchoice.Data.csproj.CoreCompileInputs.cache
+C:\Users\ingen\Documents\Projects\React_JS\tekchoice_back\tekchoice.API\tekchoice.Data\obj\Debug\netcoreapp3.1\tekchoice.Data.dll
+C:\Users\ingen\Documents\Projects\React_JS\tekchoice_back\tekchoice.API\tekchoice.Data\obj\Debug\netcoreapp3.1\tekchoice.Data.pdb
+C:\Users\ingen\Documents\Projects\React_JS\tekchoice_back\tekchoice.API\tekchoice.Data\obj\Debug\netcoreapp3.1\tekchoice.Data.genruntimeconfig.cache
+C:\Users\ingen\Documents\Projects\React_JS\tekchoice_back\tekchoice.API\tekchoice.Data\obj\Debug\netcoreapp3.1\tekchoice.Data.csprojAssemblyReference.cache

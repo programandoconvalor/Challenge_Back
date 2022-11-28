@@ -1,0 +1,8 @@
+C:\Users\ingen\Documents\Projects\React_JS\tekchoice_back\tekchoice.API\tekchoice.Core\bin\Debug\netcoreapp3.1\tekchoice.Core.deps.json
+C:\Users\ingen\Documents\Projects\React_JS\tekchoice_back\tekchoice.API\tekchoice.Core\bin\Debug\netcoreapp3.1\tekchoice.Core.dll
+C:\Users\ingen\Documents\Projects\React_JS\tekchoice_back\tekchoice.API\tekchoice.Core\bin\Debug\netcoreapp3.1\tekchoice.Core.pdb
+C:\Users\ingen\Documents\Projects\React_JS\tekchoice_back\tekchoice.API\tekchoice.Core\obj\Debug\netcoreapp3.1\tekchoice.Core.AssemblyInfoInputs.cache
+C:\Users\ingen\Documents\Projects\React_JS\tekchoice_back\tekchoice.API\tekchoice.Core\obj\Debug\netcoreapp3.1\tekchoice.Core.AssemblyInfo.cs
+C:\Users\ingen\Documents\Projects\React_JS\tekchoice_back\tekchoice.API\tekchoice.Core\obj\Debug\netcoreapp3.1\tekchoice.Core.csproj.CoreCompileInputs.cache
+C:\Users\ingen\Documents\Projects\React_JS\tekchoice_back\tekchoice.API\tekchoice.Core\obj\Debug\netcoreapp3.1\tekchoice.Core.dll
+C:\Users\ingen\Documents\Projects\React_JS\tekchoice_back\tekchoice.API\tekchoice.Core\obj\Debug\netcoreapp3.1\tekchoice.Core.pdb

@@ -1,0 +1,14 @@
+C:\Users\ingen\Documents\Projects\React_JS\tekchoice_back\tekchoice.API\tekchoice.Operations\obj\Debug\netcoreapp3.1\tekchoice.Operations.csprojAssemblyReference.cache
+C:\Users\ingen\Documents\Projects\React_JS\tekchoice_back\tekchoice.API\tekchoice.Operations\obj\Debug\netcoreapp3.1\tekchoice.Operations.AssemblyInfoInputs.cache
+C:\Users\ingen\Documents\Projects\React_JS\tekchoice_back\tekchoice.API\tekchoice.Operations\obj\Debug\netcoreapp3.1\tekchoice.Operations.AssemblyInfo.cs
+C:\Users\ingen\Documents\Projects\React_JS\tekchoice_back\tekchoice.API\tekchoice.Operations\obj\Debug\netcoreapp3.1\tekchoice.Operations.csproj.CoreCompileInputs.cache
+C:\Users\ingen\Documents\Projects\React_JS\tekchoice_back\tekchoice.API\tekchoice.Operations\bin\Debug\netcoreapp3.1\tekchoice.Operations.deps.json
+C:\Users\ingen\Documents\Projects\React_JS\tekchoice_back\tekchoice.API\tekchoice.Operations\bin\Debug\netcoreapp3.1\tekchoice.Operations.dll
+C:\Users\ingen\Documents\Projects\React_JS\tekchoice_back\tekchoice.API\tekchoice.Operations\bin\Debug\netcoreapp3.1\tekchoice.Operations.pdb
+C:\Users\ingen\Documents\Projects\React_JS\tekchoice_back\tekchoice.API\tekchoice.Operations\bin\Debug\netcoreapp3.1\tekchoice.Core.dll
+C:\Users\ingen\Documents\Projects\React_JS\tekchoice_back\tekchoice.API\tekchoice.Operations\bin\Debug\netcoreapp3.1\tekchoice.Data.dll
+C:\Users\ingen\Documents\Projects\React_JS\tekchoice_back\tekchoice.API\tekchoice.Operations\bin\Debug\netcoreapp3.1\tekchoice.Core.pdb
+C:\Users\ingen\Documents\Projects\React_JS\tekchoice_back\tekchoice.API\tekchoice.Operations\bin\Debug\netcoreapp3.1\tekchoice.Data.pdb
+C:\Users\ingen\Documents\Projects\React_JS\tekchoice_back\tekchoice.API\tekchoice.Operations\obj\Debug\netcoreapp3.1\tekchoice.Operations.csproj.CopyComplete
+C:\Users\ingen\Documents\Projects\React_JS\tekchoice_back\tekchoice.API\tekchoice.Operations\obj\Debug\netcoreapp3.1\tekchoice.Operations.dll
+C:\Users\ingen\Documents\Projects\React_JS\tekchoice_back\tekchoice.API\tekchoice.Operations\obj\Debug\netcoreapp3.1\tekchoice.Operations.pdb
